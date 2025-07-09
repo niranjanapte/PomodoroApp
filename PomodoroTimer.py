@@ -1,3 +1,5 @@
+#Author: Niranjan Apte
+#Date: 8th July 2025
 import tkinter as tk
 import time
 import threading
